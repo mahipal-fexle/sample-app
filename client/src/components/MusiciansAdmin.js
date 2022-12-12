@@ -91,8 +91,8 @@ export default class MusiciansAdmin extends Component {
         <section className="section">
           <div className="container">
             <p className="subtitle is-5">
-              Add and remove musicians using the form below this is from the
-              updated version:
+              This is just a sample change Add and remove musicians using the
+              form below this is from the updated version:
             </p>
             <br />
             <div className="columns">
